@@ -29,9 +29,12 @@ This is a simple Quiz website built using React. It allows users to give answer 
 - Responsive user interface
 
 ## Screenshots
-![Quiz Website UI 1](public/Screenshot 2025-02-02 000948.png)
-![Quiz Website UI 2](public/Screenshot 2025-02-02 000936.png)
+![Quiz Website UI 1](https://quiz-website-41.netlify.app/screenshot%202025-02-02%20000936.png)
+![Quiz Website UI 2](https://quiz-website-41.netlify.app/screenshot%202025-02-02%20000948.png)
 
 ## Video Walkthrough
-[Watch the video](https://your-video-link.com)
+[Watch the video](https://quiz-website-41.netlify.app/screen%20recording%202025-02-02%20000613.mp4)
+
+## Quiz Website Link
+[quiz-website-41](https://quiz-website-41.netlify.app/)
 
