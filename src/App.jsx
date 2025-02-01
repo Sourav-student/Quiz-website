@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react'
+import { useState } from 'react'
 
 function App() {
   const [score, setscore] = useState(0);
@@ -12,7 +12,6 @@ function App() {
 
       if (!res.ok) throw new Error('Failed to fetch');
       const data = await res.json();
-      console.log(data.contents);
       const parsedData = JSON.parse(data.contents);
       setQuizData(parsedData.questions);
     } catch (error) {
