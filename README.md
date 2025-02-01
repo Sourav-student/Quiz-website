@@ -29,7 +29,8 @@ This is a simple Quiz website built using React. It allows users to give answer 
 - Responsive user interface
 
 ## Screenshots
-![Task Manager UI](screenshots/ui.png)
+![Quiz Website UI 1](public/Screenshot 2025-02-02 000948.png)
+![Quiz Website UI 2](public/Screenshot 2025-02-02 000936.png)
 
 ## Video Walkthrough
 [Watch the video](https://your-video-link.com)
